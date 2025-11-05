@@ -1,2 +1,2 @@
-# teamalpha-researchagent-agent
+# teamalpha-researchagent-agent - yes
 AgentCore agent for team teamalpha
